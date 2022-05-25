@@ -1,0 +1,2 @@
+# covid19_uluslararasi_veri_gorsellestirme
+Uluslararası Covid19 verilerine dayanarak verileri görselleştirme
